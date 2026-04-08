@@ -1,5 +1,5 @@
 Complete Python Basics
-
+ 
 Description
 This repository is a comprehensive guide to the foundational concepts of Python programming.
 It is designed to serve as a roadmap for beginners, moving from simple syntax to core logical
